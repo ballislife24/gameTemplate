@@ -1,6 +1,6 @@
 body {
 
-	background-image: url("file:///Users/s210766/Desktop/BellagioExterior3_54_990x660_201404251834.jpg");
+    background-image: url("http://wandermom.com/wp-content/uploads/2010/08/bellagio-las-night.jpg")
     background-size: cover;
     background-position: center center;
 	font-family: monospace;
@@ -8,13 +8,6 @@ body {
 }
 
 /*Stuff below governs the start screen*/ 
-<html> 
-<head> 
-<style> 
-<img src= "file:///Users/s210766/Desktop/gameTemplate/img/Chinese-hotel-lifts-and-stairs-area.jpg"
-    width: 800px; 
-    height: 30px ;
-    } 
 
 .titleContent {
 	margin: 10% auto;
