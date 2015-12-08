@@ -11,9 +11,9 @@ body {
 <html> 
 <head> 
 <style> 
-div.img { file:///Users/s210766/Desktop/gameTemplate/img/Chinese-hotel-lifts-and-stairs-area.jpg 
-    width 800px; 
-    height 30px 
+<img src= "file:///Users/s210766/Desktop/gameTemplate/img/Chinese-hotel-lifts-and-stairs-area.jpg"
+    width: 800px; 
+    height: 30px ;
     } 
 
 .titleContent {
