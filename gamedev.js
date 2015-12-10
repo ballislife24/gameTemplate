@@ -15,7 +15,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreRight3.jpg')");
+		$("#exploreBody").css("background-image", "url('http://cdn.kone.com/www.kone.co.uk/Images/20379_lift_shaft_chrome_493x370.jpg?v=1')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
