@@ -45,11 +45,7 @@ $( document ).ready(function() {
 		$("#goLeft3").show();
 	});
 
-	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft3.jpg')");
-		$("#goLeft3").hide();
-		$("#goBack").show();
-	});
+	
 
 
 	$("#goBack").click(function() 
