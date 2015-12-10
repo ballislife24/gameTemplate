@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://www.hotelfagus.org/wp-content/uploads/2015/06/feat.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
@@ -53,7 +53,7 @@ $( document ).ready(function() {
 
 
 	$("#goBack").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreHome1.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goBack").hide();
 		$("#goRight1").show();
 		$("#goLeft1").show();
