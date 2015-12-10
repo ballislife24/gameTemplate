@@ -52,8 +52,8 @@ $( document ).ready(function() {
 	});
 
 
-	$("#goBack").click(function() {
-		$("#exploreBody").css("background-image", "url('')");
+	$("#goBack").click(function() 
+		$("#exploreBody").css("background-image", "url('http://www.download3dhouse.com/wp-content/uploads/2013/12/Hotel-lobby-interior-decoration-image.jpg')");
 		$("#goBack").hide();
 		$("#goRight1").show();
 		$("#goLeft1").show();
