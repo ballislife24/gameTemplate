@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://www.download3dhouse.com/wp-content/uploads/2013/12/Hotel-lobby-interior-decoration-image.jpg')");
+		$("#exploreBody").css("background-image", "url('http://www.furniturefromturkey.com/turkish-furniture-manufacturers/wp-content/uploads/2013/01/Hotel-Lobby.jpg')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
