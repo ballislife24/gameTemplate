@@ -2,7 +2,7 @@ $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
 		$("#exploreBody").css("background-image", "url('https://insidenanabreadshead.files.wordpress.com/2010/12/den-haag-hilton-lobby1.jpg')");
-		$("#goRight1").hide();
+		$("#goRight1").show();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
 		$("#goRight-Right2").show();
