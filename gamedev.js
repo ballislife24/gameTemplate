@@ -30,7 +30,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/explore2-goBack2.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
-	}); $("#goright4").show();
+	}); $("#goleft1").hide();
 
 	$("#goLeft-Straight1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/exploreLeft2.jpg')");
@@ -49,7 +49,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/exploreHome1.jpg')");
 		$("#goBack").hide();
 		$("#goRight1").show();
-		$("#goLeft1").hide();
+		$("#goright4").show();
 	});
 
 
