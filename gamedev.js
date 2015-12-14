@@ -30,7 +30,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/explore2-goBack2.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
-	}); $("#goLeft-Straight1").show();
+	}); $("#goright4").show();
 
 	$("#goLeft-Straight1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/exploreLeft2.jpg')");
