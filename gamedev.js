@@ -32,8 +32,6 @@ $( document ).ready(function() {
 		$("#goBack").show();
 	});
 
-	});
-
 	$("#goLeft-Straight1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/exploreLeft2.jpg')");
 		$("#goLeft2").hide();
