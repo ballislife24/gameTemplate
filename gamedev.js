@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('https://insidenanabreadshead.files.wordpress.com/2010/12/den-haag-hilton-lobby1.jpg')");
+		$("#exploreBody").css("background-image", "url('http://ennislifts.ie/wp-content/uploads/2012/02/hotel-front-300x300.jpg')");
 		$("#goRight1").show();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
@@ -9,13 +9,13 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://ennislifts.ie/wp-content/uploads/2012/02/hotel-front-300x300.jpg')");
+		$("#exploreBody").css("background-image", "url('http://cdn.kone.com/www.kone.co.uk/Images/20379_lift_shaft_chrome_493x370.jpg?v=1')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
 
 	$("#goRight-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('http://cdn.kone.com/www.kone.co.uk/Images/20379_lift_shaft_chrome_493x370.jpg?v=1')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
