@@ -49,7 +49,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/exploreHome1.jpg')");
 		$("#goBack").hide();
 		$("#goRight1").show();
-		$("#goLeft1").show();
+		$("#goLeft1").hide();
 	});
 
 
