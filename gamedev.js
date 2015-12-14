@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('http://www.furniturefromturkey.com/turkish-furniture-manufacturers/wp-content/uploads/2013/01/Hotel-Lobby.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
@@ -21,7 +21,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreRight3.jpg')");
+		$("#exploreBody").css("background-image", "url('')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
@@ -32,11 +32,6 @@ $( document ).ready(function() {
 		$("#goBack").show();
 	});
 
-
-	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft1.jpg')");
-		$("#goLeft1").hide();
-		$("#goLeft2").show();
 	});
 
 	$("#goLeft-Straight1").click(function() {
