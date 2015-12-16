@@ -27,7 +27,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/explore2-goBack2.jpg')");
+		$("#exploreBody").css("background-image", "url('http://media-cdn.tripadvisor.com/media/photo-s/06/5d/4d/67/comfort-inn-at-the-park.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	}); $("#goleft1").hide();
