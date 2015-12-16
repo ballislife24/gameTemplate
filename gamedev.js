@@ -15,7 +15,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('')");
+		$("#exploreBody").css("background-image", "url('http://cdn.houss.us/images/doordesign/back-door/hotel-room-door-design1000-x-828-678-kb-jpeg-x.jpg')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
